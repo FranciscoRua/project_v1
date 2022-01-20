@@ -1,5 +1,5 @@
 # Francisco Rua
-# Sistema de Visualização do espaço topológico de uma rede neuronal convulocional
+# Sistema de Visualização do espaço topológico de uma rede neuronal convolucional
 
 import ctypes
 import os
